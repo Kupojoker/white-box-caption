@@ -6,5 +6,5 @@ gif video meme meme-generator caption gif-editor video-editor ffmpeg pillow tkin
 - Compression presets (Best to Tiny) for video, GIF and JPG
 
 ## Notes
-- Video needs ffmpeg (see README). GIFs and images work out of the box.
+- Video needs [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) (see README). GIFs and images work out of the box.
 - Windows may show a SmartScreen warning because the exe is unsigned. Click "More info" then "Run anyway".
