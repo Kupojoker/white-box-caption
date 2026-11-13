@@ -3,9 +3,6 @@
 A small offline Windows app for adding **iFunny / meme-style white box captions** to GIFs, images and videos, with **Impact** (or any font you load).
 
 Inspired by the white box caption tool on ezgif.com. This project is not affiliated with ezgif.
-
-![screenshot](screenshot.png)
-
 ## Features
 
 - Animated GIF, PNG, JPG, WebP and video (MP4, WebM, MOV, MKV)
@@ -48,5 +45,7 @@ Requires Python 3.9+ with Tkinter (included in the standard Windows installer).
 - ffmpeg is not bundled either; it is a separate project with its own license.
 
 ## License
+KupoJoker
 
-MIT, see [LICENSE](LICENSE).
+Latest download
+https://github.com/Kupojoker/white-box-caption/releases/tag/v1.2.0
