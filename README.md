@@ -48,4 +48,10 @@ Requires Python 3.9+ with Tkinter (included in the standard Windows installer).
 KupoJoker
 
 Latest download
-https://github.com/Kupojoker/white-box-caption/releases/tag/v1.2.0
+https://github.com/Kupojoker/white-box-caption/releases/tag/v1.3.0
+
+## Acknowledgments & Contributors
+
+- **KupoJoker** - Lead Developer / Creator
+- **Gemini (Google)** - Core architecture, UI refinements, and feature implementation
+- **Claude (Anthropic)** - Code review, architectural analysis, and debugging support
