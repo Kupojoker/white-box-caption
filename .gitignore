@@ -6,3 +6,6 @@ dist/
 ffmpeg*/
 *.exe
 .vscode/
+git commit -m "Your commit message here
+
+Co-Authored-By: Claude <no-reply@anthropic.com>"
