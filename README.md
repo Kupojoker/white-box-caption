@@ -7,5 +7,5 @@ gif video meme meme-generator caption gif-editor video-editor ffmpeg pillow tkin
 
 ## Notes
 - Video needs [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) (https://www.gyan.dev/ffmpeg/builds/). GIFs and images work out of the box.
--Python required
+- [Python required](https://www.python.org/downloads/) 
 - Windows may show a SmartScreen warning because the exe is unsigned. Click "More info" then "Run anyway".
